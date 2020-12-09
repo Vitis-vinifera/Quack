@@ -3,5 +3,8 @@
 }
 
 .bird{
+  /*First value applies to top left and bottom right and top right and bottom left*/
+  border-radius: 15px 50px;
   flex-basis: 20%;
+
 }
