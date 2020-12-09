@@ -1,0 +1,7 @@
+.birds{
+  display: flex;
+}
+
+.bird{
+  flex-basis: 20%;
+}
