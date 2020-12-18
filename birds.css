@@ -8,3 +8,11 @@
   flex-basis: 20%;
 
 }
+
+.profil-pic{
+  display:block;
+  border-radius: 5px;
+  margin: auto;/* Centré par rapport à l'élément parent et doit être un display block pour que cela marche*/
+  margin-top: 1%;
+  /*Premier venu premier servi */
+}
